@@ -1,4 +1,5 @@
-# Wireshark labor
+# Subasicz András
+
 Ebbe a könyvtárba készítsd el a wireshark labor megoldásait. A megoldásokat pull request formájában add be a határidőre úgy, hogy reviewerként hozzárendeled a laborvezetődet.
 Figyelj rá a labor elején, hogy hozz létre egy új git branchet, mert a pull request létrehozásánal azt tudod majd a master ággal összehasonlítani.
 
